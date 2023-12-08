@@ -26,11 +26,24 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rokonroni&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://github.com/rokonroni">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokonroni&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/rokonroni">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokonroni&theme=outrun"/>
+  </a>
+</p>
 
-<br />
+<a> 
+    <a href="https://github.com/rokonroni"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rokonroni&theme=outrun" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/rokonroni"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rokonroni&theme=outrun&utcOffset=8" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+</br>
+
 
 ## :computer: Technologies that I know
 
