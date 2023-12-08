@@ -18,7 +18,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rokonroni/)[<img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">](https://www.facebook.com/dev.rokonroni/)[<img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Twitter.png"> </p>](https://twitter.com/rokon_roni)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rokonroni)[<img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">](https://www.facebook.com/dev.rokonroni/)[<img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Twitter.png"> </p>](https://twitter.com/rokon_roni)
 
 
 
@@ -26,7 +26,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rokonroni&theme=transparent" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rokonroni&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 
