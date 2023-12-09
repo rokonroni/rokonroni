@@ -2,9 +2,12 @@
 <img src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/githubcover.png" />
 </a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Md. Rokon Uz Zaman Roni</h1>
-<h3 align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
+<div align="center">
+<h3  align="center" >
+<a href="https://github.com/rokonroni"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
 </h3>
+</div>
+
 
 
 ## :eyes: Current overview
@@ -18,8 +21,17 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rokonroni)[<img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">](https://www.facebook.com/dev.rokonroni/)[<img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Twitter.png"> </p>](https://twitter.com/rokon_roni)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rokonroni" target="_blank">
+    <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/dev.rokonroni/" target="_blank">
+    <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">
+  </a>
+  <a href="https://twitter.com/rokon_roni" target="_blank">
+    <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Twitter.png">
+  </a>
+</p>
 
 
 ## :chart_with_upwards_trend: Current Stats
